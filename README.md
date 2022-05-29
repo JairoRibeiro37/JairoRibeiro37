@@ -9,13 +9,11 @@
 <div>
   
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=JairoRibeiro37&show_icons=true&theme=tokyonight"/>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoRibeiro37&layout=compact&themes=tokyonight"/>
   
-</div>
+  </div>
 
 ###  Let's get connected:
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](513726280043331609)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jairorfgoncalves-analista)
 
 ### Minhas tecnologias:
